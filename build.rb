@@ -2,7 +2,11 @@ require 'csv'
 require 'fileutils'
 
 def row_to_rule(row)
-  # path$site=example.com,boost=1
+  # Validate that this row has the correct columns
+  if row.size != 5 || row.headers != ["Site", "Path", "Boost", "Discard", "Reasoning"]
+    raise "Invalid row: #{row}: #{row.headers}"
+  end
+
   site = row["Site"]
   path = row["Path"] == "/" ? "" : row["Path"]
   boost = (row["Boost"] || "1").to_i

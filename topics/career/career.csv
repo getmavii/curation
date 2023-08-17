@@ -1,18 +1,18 @@
-Site,Path,Boost,Discard
-linkedin.com,/learning/,7,FALSE
-glassdoor.com,/blog/,6,FALSE
-monster.com,/career-advice/,6,FALSE
-thebalancecareers.com,,10,FALSE
-resume.com,/advice,4,FALSE
-topresume.com,/blog,4,FALSE
-forbes.com,/careers/,5,FALSE
-indeed.com,/career-advice,7,FALSE
-remote.co,,5,FALSE
-upwork.com,/blog,3,FALSE
-flexjobs.com,/blog,5,FALSE
-careerbuilder.com,,4,FALSE
-vault.com,,4,FALSE
-roberthalf.com,/blog,5,FALSE
-penelopetrunk.com,,3,FALSE
-freelancersunion.org,,4,FALSE
-meetup.com,,2,FALSE
+Site,Path,Boost,Discard,Reasoning
+linkedin.com,/,8,FALSE,"LinkedIn is a leading platform for career networking, job postings, and professional development."
+monster.com,/,7,FALSE,"Monster has been a longstanding job board with various career resources including resume advice."
+glassdoor.com,/,7,FALSE,"Glassdoor offers company reviews, salary data, and interview insights from employees."
+thebalancecareers.com,/,7,FALSE,"Provides comprehensive career advice, from job searching to career advancement."
+freelancer.com,/,6,FALSE,"One of the top platforms for freelancers to find work and gain insights on freelancing."
+upwork.com,/,6,FALSE,"A leading platform for freelancers. Also offers blogs and resources on freelancing."
+forbes.com,/,6,FALSE,"The Forbes Coaches Council regularly provides advice and insights on career and leadership."
+flexjobs.com,/,6,FALSE,"Specializes in remote, part-time, and freelance jobs, with a blog offering tips on the same."
+workitdaily.com,/,5,FALSE,"Offers career coaching, resume writing, and a variety of articles on career topics."
+resumegenius.com,/,5,FALSE,"Focuses on resume writing with templates and advice, along with other career resources."
+careercontessa.com,/,5,FALSE,"Tailored for women and offers advice on a variety of career topics."
+vault.com,/,5,FALSE,"Provides company rankings, career advice, and internship listings."
+remote.co,/,5,FALSE,"Focused on remote work and offers insights, job listings, and advice for remote professionals."
+jobscan.co,/,5,FALSE,"Offers tools for optimizing resumes for applicant tracking systems, and advice on job searching."
+collegegrad.com,/,4,FALSE,"Aimed at recent graduates, offering entry-level job listings and career advice."
+payscale.com,/,4,FALSE,"While known for salary data, it also provides insights on careers and job paths."
+remoteok.io,/,4,FALSE,"A job board focused on remote jobs. It also provides resources and tips for remote work."

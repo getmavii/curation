@@ -14,47 +14,44 @@ It should cover topics like:
 The spreedsheet has the following columns:
 
 Site: The domain of the site. Lowercase.
-Path: The path of a specific section of the site. This is optional. Only include this if it's critical.
+Path: Matches the path to relevant content on the site.
 Boost: A value between -10 and 10 that changes the rank of a matching result.
 Discard: Remove this site/path from the results. Should be TRUE or FALSE.
-Reasoning: Why this site was chosen.
+Reasoning: Why this site was chosen. Enclose in quotes to escape commas.
 
-Please make a comprehensive list of the most popular sites with appropriate boosts using the CSV format. Discard sites that contain misinformation. Explain why you chose each site.
+Please make a comprehensive list of the most popular sites with appropriate boosts as a CSV. Discard sites that contain misinformation. Explain why you chose each site. Don't include any other examples in the generated CSV.
 
 ```
 Site,Path,Boost,Discard,Reasoning
-example.com,,5,FALSE,Longstanding authority...
+example.com,/,5,FALSE,"Established site..."
 ```
 
 ## Response
 
-Certainly! Here's a sample list based on the criteria you've provided. Do note that this list is not exhaustive, and these decisions are based on the general perception as of my last update in September 2021. Sites, content, and reputation can change over time, so it might be good to periodically re-evaluate these.
+Alright, here's a CSV list for some popular gaming websites and their aspects. Note that these boosts are subjective based on general knowledge up until 2021, and the rankings are not exhaustive. Some websites may be boosted higher or lower based on their prominence in certain sectors of the gaming industry, their perceived reliability, and the quality of their content.
 
-```
+```csv
 Site,Path,Boost,Discard,Reasoning
-ign.com,,8,FALSE,Longstanding authority on game reviews and news across all platforms.
-pcgamer.com,,9,FALSE,Leading source of PC gaming news, reviews, and features.
-kotaku.com,,7,FALSE,Diverse coverage on gaming culture, news, and reviews.
-polygon.com,,8,FALSE,High-quality game journalism, reviews, and features.
-gamespot.com,,8,FALSE,Widely recognized for game reviews, news, and guides.
-rockpapershotgun.com,,8,FALSE,Primarily focuses on PC gaming news and reviews.
-eurogamer.net,,8,FALSE,Reliable source for game reviews and news in Europe.
-gamasutra.com,,6,FALSE,Covers game development and industry news.
-giantbomb.com,,7,FALSE,Unique mix of game reviews, gameplay videos, and podcasts.
-toucharcade.com,,8,FALSE,Leading source for mobile game news and reviews.
-gameinformer.com,,7,FALSE,Magazine with extensive game reviews and features.
-destructoid.com,,6,FALSE,Game reviews, news, and community-driven content.
-gamesradar.com,,7,FALSE,Covers a wide variety of gaming news, reviews, and guides.
-espn.com,esports,9,FALSE,Authoritative source for esports news and updates.
-theverge.com,gaming,7,FALSE,Provides gaming news in the context of tech culture.
-venturebeat.com,category/games,6,FALSE,Good for gaming news with a tech/business angle.
-androidcentral.com,games,7,FALSE,Reliable for Android mobile gaming news and reviews.
-pocketgamer.com,,8,FALSE,Mobile gaming reviews, news, and features.
-n4g.com,,6,FALSE,News aggregator for gaming articles.
-neogaf.com,,4,FALSE,Forum-driven content; may require user discretion.
-badexample.com,,,-10,TRUE,Example of a site with consistent misinformation.
+ign.com,/,8,FALSE,"IGN is one of the most recognized brands in gaming media, known for comprehensive game reviews, news, and features."
+kotaku.com,/,7,FALSE,"Kotaku offers a mix of news, reviews, and opinion pieces, often with a unique take on the gaming industry."
+pcgamer.com,/,8,FALSE,"PC Gamer is renowned for its coverage on PC games, hardware reviews, and related news."
+polygon.com,/,7,FALSE,"Polygon is known for its in-depth features, game reviews, and news articles."
+gamespot.com,/,7,FALSE,"GameSpot has been a staple in the gaming community for years, offering reviews, news, and features."
+rockpapershotgun.com,/,6,FALSE,"Focused on PC gaming, it offers unique opinions and insightful articles."
+gamasutra.com,/,7,FALSE,"Gamasutra is oriented towards game development, offering articles, job listings, and academic discussions about the industry."
+giantbomb.com,/,7,FALSE,"Giant Bomb is a reputable site for game reviews, videos, and podcasts with a dedicated community."
+eurogamer.net,/,7,FALSE,"Eurogamer provides game reviews, news, and in-depth features for a European audience."
+gameinformer.com,/,7,FALSE,"Game Informer, a magazine as well, offers game reviews, features, and news."
+toucharcade.com,/,6,FALSE,"TouchArcade focuses on mobile gaming reviews, news, and guides."
+pocketgamer.com,/,6,FALSE,"Pocket Gamer is another authority in the mobile gaming space, providing reviews and news."
+espn.com/esports/,/,6,FALSE,"ESPN's esports section covers major esports events, news, and analyses."
+hltv.org,/,6,FALSE,"HLTV focuses on the Counter-Strike esports scene, offering news, statistics, and event coverage."
+eventhubs.com,/,6,FALSE,"EventHubs covers the fighting game community and esports events."
+gamesindustry.biz,/,7,FALSE,"GamesIndustry.biz provides articles on the business side of the gaming industry."
+destructoid.com,/,6,FALSE,"Destructoid offers reviews, news, and op-eds on a variety of gaming topics."
+trueachievements.com,/,5,FALSE,"Focused on console achievements and trophies, it also provides news and reviews."
+gamedev.net,/,7,FALSE,"A community and resource site for game developers, offering tutorials, forums, and articles."
+androidcentral.com/games/,5,FALSE,"Android Central's gaming section provides reviews and news on the latest Android games."
 ```
 
-The "Boost" values are somewhat subjective and are meant to serve as a starting point. You may need to adjust them based on more recent data or your personal preferences. The "Discard" column is mostly set to "FALSE" with the exception of the fictional "badexample.com" to show how a site with misinformation might be flagged.
-
-It's also essential to continually monitor these sites since the quality and reliability of content can evolve.
+This list should serve as a solid starting point. Adjust the boosts according to your criteria and observations over time. Always be open to updating it as the gaming media landscape evolves.

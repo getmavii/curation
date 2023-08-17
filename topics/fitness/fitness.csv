@@ -1,21 +1,12 @@
-Site,Path,Boost,Discard
-bodybuilding.com,,8,FALSE
-myfitnesspal.com,,7,FALSE
-menshealth.com,,7,FALSE
-womenshealthmag.com,,7,FALSE
-yogajournal.com,,7,FALSE
-livestrong.com,,6,FALSE
-t-nation.com,,6,FALSE
-examine.com,,8,FALSE
-darebee.com,,7,FALSE
-runnersworld.com,,7,FALSE
-nerdfitness.com,,6,FALSE
-mindbodygreen.com,,6,FALSE
-muscleandfitness.com,,6,FALSE
-yogaalliance.org,,7,FALSE
-acefitness.org,,8,FALSE
-healthline.com/nutrition,,9,FALSE
-verywellfit.com,,7,FALSE
-popsugar.com,/fitness,5,FALSE
-fitnessmagazine.com,,6,FALSE
-shape.com,,6,FALSE
+Site,Path,Boost,Discard,Reasoning
+bodybuilding.com,/,5,FALSE,"One of the most popular sites for weight training and supplements. Comprehensive resources and community-driven."
+myfitnesspal.com,/,6,FALSE,"Highly popular tool for nutrition tracking, offers blogs and articles on all things fitness."
+yogajournal.com,/,4,FALSE,"Well-established site dedicated to yoga and its practices."
+verywellfit.com,/,5,FALSE,"Provides well-researched articles on various fitness topics, including cardio, nutrition, and mental well-being."
+runnersworld.com,/,5,FALSE,"Authoritative site for cardio, specifically running. Offers advice, training plans, and gear reviews."
+menshealth.com,/,5,FALSE,"Covers a broad spectrum of men's fitness topics, from weight training to nutrition."
+womenshealthmag.com,/,5,FALSE,"Female-focused counterpart to Men's Health, covering a wide range of fitness topics."
+examine.com,supplements/,6,FALSE,"Reliable resource for supplement information. Science-backed and transparent in its analyses."
+pilatesanytime.com,/,4,FALSE,"Dedicated to Pilates, offers a variety of lessons and resources."
+calm.com,/,4,FALSE,"Focuses on mental well-being through meditation and sleep. Offers a wide variety of content."
+t-nation.com,/,4,FALSE,"Weight training and bodybuilding-focused, catering to a more hardcore audience. Quality content but sometimes biased."
