@@ -1,9 +1,9 @@
 Site,Path,Boost,Discard,Reasoning
-imdb.com,/,8,FALSE,"IMDb is a well-established database for movies and has comprehensive reviews and ratings."
+imdb.com,/,8,FALSE,IMDb is a well-established database for movies and has comprehensive reviews and ratings.
 rottentomatoes.com,/,7,FALSE,"Rotten Tomatoes is known for its 'Tomatometer' and audience ratings, providing an overall picture of critical and public perception."
 letterboxd.com,/,6,FALSE,"Letterboxd is a social platform for sharing film reviews and lists, and has gained significant popularity in recent years."
-metacritic.com,movies/,6,FALSE,"Metacritic aggregates reviews and provides a 'Metascore' for movies which reflects the critics' reviews."
-fandango.com,movies/,5,FALSE,"Fandango is primarily a ticket-selling site but has relevant reviews and ratings."
+metacritic.com,/movies/,6,FALSE,Metacritic aggregates reviews and provides a 'Metascore' for movies which reflects the critics' reviews.
+fandango.com,/movies/,5,FALSE,Fandango is primarily a ticket-selling site but has relevant reviews and ratings.
 animationworld.net,/,5,FALSE,"This site is a great source for animation news, reviews, and features."
-dramafever.com,/,4,FALSE,"Popular site for drama-focused movies and series."
-documentaryheaven.com,/,5,FALSE,"A platform offering a wide array of documentaries from different genres and sources."
+dramafever.com,/,4,FALSE,Popular site for drama-focused movies and series.
+documentaryheaven.com,/,5,FALSE,A platform offering a wide array of documentaries from different genres and sources.

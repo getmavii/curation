@@ -1,20 +1,20 @@
 Site,Path,Boost,Discard,Reasoning
-bbc.com,/,8,FALSE,"Internationally recognized for balanced news and coverage across categories"
+bbc.com,/,8,FALSE,Internationally recognized for balanced news and coverage across categories
 cnn.com,/,7,FALSE,"Popular international news outlet with diverse content, sometimes criticized for being USA-centric"
 nytimes.com,/,7,FALSE,"Renowned for investigative journalism, international coverage, but faced criticism over certain political biases"
-reuters.com,/,8,FALSE,"Global news organization known for timely and unbiased reporting"
+reuters.com,/,8,FALSE,Global news organization known for timely and unbiased reporting
 aljazeera.com,/,7,FALSE,"Provides a unique perspective on international news, especially from the Middle East"
-techcrunch.com,/tech,8,FALSE,"Reputable source for technology news and startup culture"
-arstechnica.com,/tech,7,FALSE,"Technical depth and up-to-date reporting on technology"
-healthline.com,/news,6,FALSE,"Reliable and comprehensive source for health-related news"
-espn.com,/,8,FALSE,"Prominent and reliable source for sports news"
+techcrunch.com,/,8,FALSE,Reputable source for technology news and startup culture
+arstechnica.com,/,7,FALSE,Technical depth and up-to-date reporting on technology
+healthline.com,/,6,FALSE,Reliable and comprehensive source for health-related news
+espn.com,/,8,FALSE,Prominent and reliable source for sports news
 politico.com,/,7,FALSE,"Focused on political news with extensive coverage, occasionally criticized for its DC-centric views"
 theguardian.com,/,8,FALSE,"UK-based international news outlet, known for in-depth analysis and broad coverage"
-apnews.com,/,8,FALSE,"Associated Press is a trusted global news organization"
+apnews.com,/,8,FALSE,Associated Press is a trusted global news organization
 thehill.com,/,6,FALSE,"Focused on US political news, often from a policy angle"
 forbes.com,/,6,FALSE,"While known for business, also covers health, tech, and international news"
-naturalnews.com,/,10,TRUE,"Frequent promoter of health misinformation and conspiracy theories"
+naturalnews.com,/,10,TRUE,Frequent promoter of health misinformation and conspiracy theories
 foxnews.com,/,0,FALSE,"Popular US news channel, often criticized for conservative bias"
 msnbc.com,/,0,FALSE,"US-based news, known for liberal leanings"
-infowars.com,/,10,TRUE,"Known to propagate conspiracy theories and misinformation"
-washingtonpost.com,/,7,FALSE,"US-based newspaper with extensive international and political coverage"
+infowars.com,/,10,TRUE,Known to propagate conspiracy theories and misinformation
+washingtonpost.com,/,7,FALSE,US-based newspaper with extensive international and political coverage
