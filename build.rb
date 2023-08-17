@@ -15,7 +15,12 @@ def row_to_rule(row)
   if discard
     "#{path}$discard,site=#{site}"
   else
-    "#{path}$site=#{site},boost=#{boost}"
+    if boost >= 0
+      "#{path}$site=#{site},boost=#{boost}"
+    else
+      # Use the absolute value of negative boost as downrank
+      "#{path}$site=#{site},downrank=#{boost.abs}"
+    end
   end
 end
 
