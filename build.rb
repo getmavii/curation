@@ -31,10 +31,15 @@ end
 def generate_goggles
   Dir.glob("topics/**/*.csv") do |csv_file|
     filename = File.basename(csv_file, File.extname(csv_file))
-    File.open("goggles/#{filename}.goggle", "w") do |goggles_file|
-    # First row is headers
+    File.open("goggles/#{filename}.goggle", "w") do |output|
+      output.puts "! name: Mavii #{filename}"
+      output.puts "! description: Curated sites for #{filename}"
+      output.puts "! public: false"
+      output.puts "! author: mavii.com"
+      output.puts ""
+
       CSV.foreach(csv_file, headers: true) do |row|
-        goggles_file.puts row_to_rule(row)
+        output.puts row_to_rule(row)
       end
     end
   end
