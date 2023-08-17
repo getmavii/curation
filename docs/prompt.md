@@ -1,13 +1,13 @@
-I am creating a spreadsheet that ranks the quality and reliability of **Fitness** websites. They can be be upranked or downranked by changing the boost value.
+I am creating a spreadsheet that ranks the quality and reliability of **Parenting** websites. They can be be upranked or downranked by changing the boost value.
 
 It should cover topics like:
 
-- Cardio
-- Weight Training
-- Yoga & Pilates
-- Nutrition
-- Supplements
-- Mental Wellbeing
+- Newborns & Infants
+- Toddlers
+- School-Aged Kids
+- Teenagers
+- Parenting Tips
+- Education
 
 The spreedsheet has the following columns:
 
