@@ -1,0 +1,22 @@
+! name: Mavii foodAndCooking
+! description: Curated sites for foodAndCooking
+! public: false
+! author: mavii.com
+
+$site=seriouseats.com,boost=10
+/cooking/$site=nytimes.com,boost=9
+$site=bbcgoodfood.com,boost=8
+$site=bonappetit.com,boost=8
+$site=kingarthurbaking.com,boost=8
+$site=food52.com,boost=7
+$site=smittenkitchen.com,boost=7
+$site=cookinglight.com,boost=7
+$site=epicurious.com,boost=7
+$site=vegrecipesofindia.com,boost=7
+$site=allrecipes.com,boost=6
+$site=thespruceeats.com,boost=6
+$site=tasty.co,boost=5
+$site=food.com,boost=4
+$site=cooks.com,boost=3
+/food/$site=buzzfeed.com,boost=2
+$site=foodnetwork.com,boost=1

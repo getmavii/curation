@@ -1,0 +1,18 @@
+Site,Path,Boost,Discard,Reasoning
+seriouseats.com,/,10,FALSE,"Well-researched, in-depth articles and reliable recipes."
+nytimes.com,/cooking/,9,FALSE,Renowned journalism. Offers diverse and tested recipes.
+bbcgoodfood.com,/,8,FALSE,Trusted resource with a vast collection of diverse recipes.
+bonappetit.com,/,8,FALSE,Known for its modern culinary insights and quality recipes.
+kingarthurbaking.com,/,8,FALSE,Dedicated to baking. Provides thorough and tested recipes.
+food52.com,/,7,FALSE,"Community-driven, offers a blend of articles and tested recipes."
+smittenkitchen.com,/,7,FALSE,"A reliable blog with diverse, tested recipes."
+cookinglight.com,/,7,FALSE,Focuses on healthy recipes and cooking techniques.
+epicurious.com,/,7,FALSE,Long-standing website with a wide variety of recipes.
+vegrecipesofindia.com,/,7,FALSE,Focused on vegetarian and vegan Indian cuisine.
+allrecipes.com,/,6,FALSE,Popular community-driven recipe site. Quality may vary.
+thespruceeats.com,/,6,FALSE,"Diverse recipes, also covers beverages and meal prepping."
+tasty.co,/,5,FALSE,Viral video recipes. Good for trends but depth might vary.
+food.com,/,4,FALSE,"Large collection, but user-generated so quality can vary."
+cooks.com,/,3,FALSE,"Older site with basic recipes, lacks modern culinary insights."
+buzzfeed.com,/food/,2,FALSE,Focuses on trendy foods. Quality and depth can be inconsistent.
+foodnetwork.com,/,1,FALSE,"Features celebrity chef recipes, but quality can be hit or miss."
