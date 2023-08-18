@@ -1,6 +1,6 @@
 Site,Path,Boost,Discard,Reasoning
 nytimes.com,/wirecutter/,10,FALSE,"A subsidiary of The New York Times, renowned for unbiased, thorough reviews."
-cnet.com/reviews/,/reviews/,9,FALSE,Established tech review site with a history of credible journalism.
+cnet.com,/reviews/,9,FALSE,Established tech review site with a history of credible journalism.
 techcrunch.com,,8,FALSE,"Tech-focused site, reliable product reviews amongst news articles."
 consumerreports.org,,10,FALSE,Non-profit that provides unbiased product reviews based on thorough testing.
 allure.com,/product-reviews/,8,FALSE,Beauty-focused with expert-backed product reviews.
@@ -10,7 +10,7 @@ pcmag.com,,9,FALSE,One of the go-to sources for tech and gadget reviews.
 runnersworld.com,,7,FALSE,"Specializes in fitness, with a focus on running gear."
 babygearlab.com,,8,FALSE,Reviews for baby products based on expert analysis and real-world testing.
 fashionista.com,,7,FALSE,Covers fashion trends and product reviews.
-strategist.nymag.com,,9,FALSE,"Part of New York Magazine, offering expert reviews on a wide array of products."
+nymag.com,/strategist/,9,FALSE,"Part of New York Magazine, offering expert reviews on a wide array of products."
 androidcentral.com,,8,FALSE,"Focused on Android tech, but offers broad tech product reviews."
 tomsguide.com,,9,FALSE,Well-respected for comprehensive tech and gadget reviews.
 engadget.com,,8,FALSE,Primarily a tech news site but has a strong product review section.

@@ -4,7 +4,7 @@
 ! author: mavii.com
 
 /wirecutter/$site=nytimes.com,boost=10
-/reviews/$site=cnet.com/reviews/,boost=9
+/reviews/$site=cnet.com,boost=9
 $site=techcrunch.com,boost=8
 $site=consumerreports.org,boost=10
 /product-reviews/$site=allure.com,boost=8
@@ -14,7 +14,7 @@ $site=pcmag.com,boost=9
 $site=runnersworld.com,boost=7
 $site=babygearlab.com,boost=8
 $site=fashionista.com,boost=7
-$site=strategist.nymag.com,boost=9
+/strategist/$site=nymag.com,boost=9
 $site=androidcentral.com,boost=8
 $site=tomsguide.com,boost=9
 $site=engadget.com,boost=8
