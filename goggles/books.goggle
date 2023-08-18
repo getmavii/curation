@@ -1,0 +1,21 @@
+! name: Mavii books
+! description: Curated sites for books
+! public: false
+! author: mavii.com
+
+/book/$site=goodreads.com,boost=10
+$site=amazon.com,boost=9
+$site=barnesandnoble.com,boost=9
+$site=bookdepository.com,boost=9
+/section/books/$site=nytimes.com,boost=9
+/books/$site=theguardian.com,boost=9
+$site=bookriot.com,boost=0
+$site=lithub.com,boost=9
+$site=brainpickings.org,boost=8
+$site=electricliterature.com,boost=8
+$site=tor.com,boost=7
+$site=poetryfoundation.org,boost=10
+$site=granta.com,boost=7
+$site=comicsbeat.com,boost=7
+/books/$site=randomhouse.com,boost=6
+$site=abebooks.com,boost=8

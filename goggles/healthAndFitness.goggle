@@ -1,0 +1,21 @@
+! name: Mavii healthAndFitness
+! description: Curated sites for healthAndFitness
+! public: false
+! author: mavii.com
+
+$site=mayoclinic.org,boost=10
+$site=webmd.com,boost=8
+$site=bodybuilding.com,boost=7
+$site=yogajournal.com,boost=8
+$site=examine.com,boost=10
+$site=health.harvard.edu,boost=10
+$site=menshealth.com,boost=6
+$site=womenshealthmag.com,boost=6
+/blog/$site=myfitnesspal.com,boost=7
+$site=athletesforlife.com,boost=6
+$site=runnersworld.com,boost=8
+$site=livestrong.com,boost=5
+$site=shape.com,boost=6
+$site=fitnessmagazine.com,boost=6
+$discard,site=mercola.com
+$discard,site=naturalnews.com

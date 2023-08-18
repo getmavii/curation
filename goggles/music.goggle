@@ -1,0 +1,21 @@
+! name: Mavii music
+! description: Curated sites for music
+! public: false
+! author: mavii.com
+
+/reviews/albums/$site=pitchfork.com,boost=9
+/music/$site=rollingstone.com,boost=8
+/sections/music/$site=npr.org,boost=8
+/music/$site=complex.com,boost=7
+$site=stereogum.com,boost=8
+$site=residentadvisor.net,boost=7
+$site=consequenceofsound.net,boost=7
+/category/music/$site=popmatters.com,boost=7
+/music/$site=billboard.com,boost=6
+$site=soundonsound.com,boost=8
+$site=musictheory.net,boost=9
+$site=songkick.com,boost=6
+$site=digitalmusicnews.com,boost=5
+$site=mixmag.net,boost=7
+$site=factmag.com,boost=7
+$site=spin.com,boost=7
