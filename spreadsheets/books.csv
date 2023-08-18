@@ -1,0 +1,17 @@
+Site,Path,Boost,Discard,Reasoning
+goodreads.com,/book/,10,FALSE,A trusted platform for book reviews and recommendations by readers worldwide.
+amazon.com,,9,FALSE,World's largest online retailer with a vast book section and user reviews.
+barnesandnoble.com,,9,FALSE,One of the largest U.S. book retailers with online reviews and recommendations.
+bookdepository.com,,9,FALSE,Popular international online book retailer with user reviews.
+nytimes.com,/section/books/,9,FALSE,The New York Times Book Review section provides in-depth reviews and book news.
+theguardian.com,/books/,9,FALSE,The Guardian's book section is known for its detailed reviews and literary articles.
+bookriot.com,,0,FALSE,Book Riot covers a wide range of book topics and promotes diverse literature.
+lithub.com,,9,FALSE,Literary Hub offers extensive coverage of literature from various perspectives.
+brainpickings.org,,8,FALSE,"Brain Pickings provides in-depth reviews and insights into books, often touching on philosophy and deep thinking."
+electricliterature.com,,8,FALSE,Electric Literature supports and promotes diverse voices in the literary world.
+tor.com,,7,FALSE,"Dedicated to science fiction and fantasy, Tor provides reviews, articles, and short stories."
+poetryfoundation.org,,10,FALSE,"One of the premier sources for poetry, they have a vast collection and insightful articles."
+granta.com,,7,FALSE,"A renowned literary magazine that publishes fiction, non-fiction, and poetry."
+comicsbeat.com,,7,FALSE,Reliable source for graphic novel news and reviews.
+randomhouse.com,/books/,6,FALSE,"Though a publisher's website, it provides detailed information about their titles and authors."
+abebooks.com,,8,FALSE,Used and rare books marketplace with a strong reputation among book collectors.

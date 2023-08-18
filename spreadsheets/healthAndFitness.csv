@@ -1,0 +1,17 @@
+Site,Path,Boost,Discard,Reasoning
+mayoclinic.org,,10,FALSE,Renowned for evidence-based health information and insights.
+webmd.com,,8,FALSE,"Trusted source for health and medical information, though sometimes commercial partnerships might influence content."
+bodybuilding.com,,7,FALSE,"Primarily focused on weight training and supplements, a go-to resource but commercial interests can sometimes influence content."
+yogajournal.com,,8,FALSE,"Authentic source for yoga and Pilates enthusiasts, emphasizing the traditional practices."
+examine.com,,10,FALSE,Evidence-based insights on supplements and nutrition. No commercial endorsements.
+health.harvard.edu,,10,FALSE,"Harvard Medical School's official health portal, evidence-based and peer-reviewed content."
+menshealth.com,,6,FALSE,Cover a broad spectrum of health and fitness topics but sometimes tend to sensationalize topics.
+womenshealthmag.com,,6,FALSE,"Similar to MensHealth in scope and approach, with focus on women's health and fitness."
+myfitnesspal.com,/blog/,7,FALSE,Well-regarded for diet tracking but the blog section is also full of insights on nutrition and diet plans.
+athletesforlife.com,,6,FALSE,Focuses on sports injuries and recovery techniques.
+runnersworld.com,,8,FALSE,Mainly focused on cardio with some insights on recovery techniques and injuries.
+livestrong.com,,5,FALSE,"Covers a wide range of health and fitness topics, but some articles can be less evidence-based than others."
+shape.com,,6,FALSE,"Mainly targets women with content on workouts, diet plans, and general health advice."
+fitnessmagazine.com,,6,FALSE,"General fitness magazine covering a range of topics, sometimes articles can lean towards trends more than hard evidence."
+mercola.com,,0,TRUE,"Has been known to spread misleading health information, often contrary to scientific consensus."
+naturalnews.com,,0,TRUE,Has a history of spreading misinformation on health-related topics.

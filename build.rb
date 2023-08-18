@@ -29,7 +29,7 @@ def delete_goggles
 end
 
 def generate_goggles
-  Dir.glob("topics/**/*.csv") do |csv_file|
+  Dir.glob("spreadsheets/*.csv") do |csv_file|
     filename = File.basename(csv_file, File.extname(csv_file))
     File.open("goggles/#{filename}.goggle", "w") do |output|
       output.puts "! name: Mavii #{filename}"
