@@ -9,7 +9,7 @@ $site=barnesandnoble.com,boost=9
 $site=bookdepository.com,boost=9
 /section/books/$site=nytimes.com,boost=9
 /books/$site=theguardian.com,boost=9
-$site=bookriot.com,boost=0
+$site=bookriot.com,boost=1
 $site=lithub.com,boost=9
 $site=brainpickings.org,boost=8
 $site=electricliterature.com,boost=8
