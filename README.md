@@ -16,7 +16,7 @@ These can can be regenerated based on `topics.yml` by running:
 ruby generate.rb
 ```
 
-## Spreadheets
+## Spreadsheets
 
 These are the collections of sites with corresponding boosts. It contains the following fields:
 

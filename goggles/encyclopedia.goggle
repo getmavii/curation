@@ -1,0 +1,7 @@
+! name: Mavii encyclopedia
+! description: Curated sites for encyclopedia
+! public: false
+! author: mavii.com
+
+$site=wikipedia.org,boost=8
+$site=britannica.com,boost=8
